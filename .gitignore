@@ -23,3 +23,4 @@ similarity_results.json
 # Virtual environments
 .venv
 uv*
+venv.tar.gzvenv.tar.gz
